@@ -1,0 +1,25 @@
+{
+    "name": "skku-stat-jws",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/W00SHH/skku-stat-jws.git"
+    },
+    "bin": {
+        "stat-skku-jws": "./main.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/W00SHH/skku-stat-jws/issues"
+    },
+    "homepage": "https://github.com/W00SHH/skku-stat-jws#readme",
+    "devDependencies": {
+        "jest": "^29.1.2"
+    }
+}
